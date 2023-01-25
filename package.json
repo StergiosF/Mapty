@@ -9,6 +9,9 @@
   },
   "author": "Stergios Fotoglou",
   "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
     "parcel": "^2.8.2"
   }
 }
