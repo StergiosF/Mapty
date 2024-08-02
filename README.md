@@ -34,21 +34,21 @@ To get a local copy up and running follow these simple example steps.
 
 2. Clone the repo
 
-   ```sh
-   git clone https://github.com/StergiosFotoglou/Mapty.git
-   ```
+```sh
+git clone https://github.com/StergiosFotoglou/Mapty.git
+```
 
 3. Install NPM packages
 
-   ```sh
-   npm install npm@latest -g
-   ```
+```sh
+npm install npm@latest -g
+```
 
 3. Start a local server for the project
 
-   ```sh
-   npm start
-   ```
+```sh
+npm start
+```
 
 ## Usage
 
