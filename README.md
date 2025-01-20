@@ -1,4 +1,4 @@
-# ∞ Mapty
+# 🗺️ Mapty
 
 A Map application made with JavaScript to store workouts.
 
@@ -10,7 +10,7 @@ Deployed Website: https://mapty-stergios.netlify.app
 
 [![mapty.png](/mapty.PNG)](https://mapty-stergios.netlify.app/)
 
-Mapty is a vanilla JavaScript application that interacts with the Leaflet library and display Map. This app uses modern JavaScript tools, such as Parcel to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5. The user can add workouts for running and cycling and these are stored via local storage.
+Mapty is a vanilla JavaScript application that interacts with the Leaflet library and displays Map. This app uses modern JavaScript tools, such as Parcel to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5. The user can add workouts for running and cycling and these are stored via local storage.
 
 ### Built With
 
@@ -24,7 +24,7 @@ This app is built with pure vanilla JavaScript along with HTML and CSS. It uses 
 
 ## Getting Started
 
-To get started with project just simply fork this repo or download locally on your System.
+To get started with the project simply fork this repo or download it locally on your System.
 
 To get a local copy up and running follow these simple example steps.
 
@@ -52,7 +52,7 @@ npm start
 
 ## Usage
 
-1. Add workouts near to your Geo location.
+1. Add workouts near your Geo location.
 
 2. Add workouts to bookmarks to view it later.
 
